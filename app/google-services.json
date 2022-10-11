@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629136346211",
+    "firebase_url": "https://smart-tank-1a14a-default-rtdb.firebaseio.com",
+    "project_id": "smart-tank-1a14a",
+    "storage_bucket": "smart-tank-1a14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629136346211:android:d70a1d128bfc18a6a77c56",
+        "android_client_info": {
+          "package_name": "com.example.smartwatertank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629136346211-f1oklib5dsu8is9hsa98ibeh313klvgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyoP4uaePhkAcfwT1v0IExvGzX37UJO8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629136346211-f1oklib5dsu8is9hsa98ibeh313klvgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
